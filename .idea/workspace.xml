@@ -223,19 +223,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_191\jre">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment />
@@ -401,7 +388,8 @@
       <workItem from="1669553792665" duration="5737000" />
       <workItem from="1669736500308" duration="1169000" />
       <workItem from="1669881239142" duration="8500000" />
-      <workItem from="1671436548178" duration="5510000" />
+      <workItem from="1671436548178" duration="6718000" />
+      <workItem from="1671443362396" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="是的范德萨">
       <created>1669737209079</created>
@@ -424,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669953130511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="输入本次代码修改的内容">
+      <created>1671442314988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671442314988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -473,6 +468,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="是的范德萨" />

@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="" />
+    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,7 +401,7 @@
       <workItem from="1669553792665" duration="5737000" />
       <workItem from="1669736500308" duration="1169000" />
       <workItem from="1669881239142" duration="8500000" />
-      <workItem from="1671436548178" duration="4880000" />
+      <workItem from="1671436548178" duration="5510000" />
     </task>
     <task id="LOCAL-00001" summary="是的范德萨">
       <created>1669737209079</created>

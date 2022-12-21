@@ -12,6 +12,7 @@ package com.xiangxue.simplefactory;
 public class BenChiFactory implements AbstractFactory{
     @Override
     public Car driver() {
+        //sadf
         return new BenChi();
     }
 

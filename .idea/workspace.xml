@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="输入本次代码修改的内容">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiangxue/simplefactory/BenChiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiangxue/simplefactory/BenChiFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +403,7 @@
       <workItem from="1671443362396" duration="225000" />
       <workItem from="1671460441491" duration="725000" />
       <workItem from="1671549220809" duration="1285000" />
-      <workItem from="1671633360791" duration="625000" />
+      <workItem from="1671633360791" duration="2771000" />
     </task>
     <task id="LOCAL-00001" summary="是的范德萨">
       <created>1669737209079</created>
@@ -435,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671442314988</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="输入本次代码修改的内容">
+      <created>1671634056162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671634056163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

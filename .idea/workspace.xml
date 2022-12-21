@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="输入本次代码修改的内容" />
+    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="输入本次代码修改的内容">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +207,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Application.DemoClass">
     <configuration name="DemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -217,17 +219,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -402,6 +393,7 @@
       <workItem from="1671460441491" duration="725000" />
       <workItem from="1671549220809" duration="1285000" />
       <workItem from="1671633360791" duration="2771000" />
+      <workItem from="1671637784901" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="是的范德萨">
       <created>1669737209079</created>
@@ -438,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671634056163</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="输入本次代码修改的内容">
+      <created>1671637124812</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671637124812</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

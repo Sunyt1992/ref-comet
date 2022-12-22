@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="">
+    <list default="true" id="ad0ae3fa-9202-402c-94bd-ce56a089661e" name="Default Changelist" comment="输入本次代码修改的内容">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiangxue/util/DemoServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiangxue/util/DemoServiceImpl2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,15 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -407,6 +406,7 @@
       <workItem from="1671549220809" duration="1285000" />
       <workItem from="1671633360791" duration="2771000" />
       <workItem from="1671637784901" duration="50000" />
+      <workItem from="1671712843596" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary="是的范德萨">
       <created>1669737209079</created>

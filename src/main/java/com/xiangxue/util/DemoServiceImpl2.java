@@ -16,5 +16,6 @@ public class DemoServiceImpl2 implements DemoService {
     @Override
     public void demo() {
         System.out.println("添加一个打印");
+        System.out.println("第二次提交");
     }
 }

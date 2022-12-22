@@ -15,5 +15,6 @@ import org.springframework.stereotype.Service;
 public class DemoServiceImpl2 implements DemoService {
     @Override
     public void demo() {
+        System.out.println("添加一个打印");
     }
 }

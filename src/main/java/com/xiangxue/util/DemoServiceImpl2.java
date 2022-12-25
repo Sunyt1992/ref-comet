@@ -19,5 +19,7 @@ public class DemoServiceImpl2 implements DemoService {
         System.out.println("第二次提交");
 
         System.out.println("dev环境第一次提交");
+        System.out.println("dev环境第2次提交");
+
     }
 }
